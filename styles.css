@@ -1,3 +1,25 @@
-body {
-  background: tomato;
+:root { 
+  --accent-black-2: hsl(0, 0%, 0%);
+  --accent-black-3: hsl(0, 0%, 5%);
+  --accent-black-4: hsl(0, 0%, 10%);
+  --base-black: hsl(0, 0%, 13%);
+  --accent-black-6: hsl(0, 0%, 20%);
+  --accent-black-7: hsl(0, 0%, 30%);
+  --accent-black-8: hsl(0, 0%, 40%);
+  --accent-black-9: hsl(0, 0%, 70%);
+  --base-white: hsl(0, 0%, 98%);
+  --accent-green-3: hsl(171, 54%, 30%);
+  --accent-green-4: hsl(171, 54%, 40%);
+  --primary-green: hsl(171, 55%, 60%);
+  --primary-yellow: hsl(43, 100%, 54%);
+  --accent-yellow: hsl(43, 100%, 82%);
+  --accent-orange: hsl(25, 96%,40%);
+  --primary-orange: hsl(28, 100%, 58%);
+  --lighter-gray: hsl(0, 0%, 90%);
+  --light-gray: hsl(0, 0%, 86%);
+  --dark-gray: hsl(0, 0%, 54%);
+  --alert-red: hsl(0deg 100% 37%);
+  --font-sunrise: 'Waiting for the Sunrise', serif;
+  --font-poppins: 'Poppins', sans-serif;
+  font-size: 16px;
 }
