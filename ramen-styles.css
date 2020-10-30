@@ -7,7 +7,7 @@
   --accent-black-7: hsl(0, 0%, 30%);
   --accent-black-8: hsl(0, 0%, 40%);
   --accent-black-9: hsl(0, 0%, 70%);
-  --base-white: red;
+  --base-white: hsl(0, 0%, 98%);
   --accent-green-3: hsl(171, 54%, 30%);
   --accent-green-4: hsl(171, 54%, 40%);
   --primary-green: hsl(171, 55%, 60%);
