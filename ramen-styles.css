@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;900&display=swap');
+
 :root { 
   --accent-black-2: hsl(0, 0%, 0%);
   --accent-black-3: hsl(0, 0%, 5%);
@@ -7,7 +9,7 @@
   --accent-black-7: hsl(0, 0%, 30%);
   --accent-black-8: hsl(0, 0%, 40%);
   --accent-black-9: hsl(0, 0%, 70%);
-  --base-white: hsl(0, 0%, 98%);
+  --base-white: red;
   --accent-green-3: hsl(171, 54%, 30%);
   --accent-green-4: hsl(171, 54%, 40%);
   --primary-green: hsl(171, 55%, 60%);
