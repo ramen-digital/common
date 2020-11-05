@@ -1170,9 +1170,9 @@ button {
   left: -40px;
 }
 
-.ramen-location:before {background-image: url('../i/location.png')}
-.ramen-email:before {background-image: url('../i/email-alt.png')}
-.ramen-tel:before {background-image: url('../i/tel-alt.png')}
+.ramen-location:before {background-image: url('https://meu.ramen.digital/wp-content/themes/ramen/i/location.webp')}
+.ramen-email:before {background-image: url('https://meu.ramen.digital/wp-content/themes/ramen/i/email-alt.webp')}
+.ramen-tel:before {background-image: url('https://meu.ramen.digital/wp-content/themes/ramen/i/tel-alt.webp')}
 
 .any-doubts {
   display: none;
@@ -1583,7 +1583,7 @@ button {
   .get-section p:before {
     content: ' ';
     position: absolute;
-    background-image: url('../i/check.png');
+    background-image: url('https://meu.ramen.digital/wp-content/themes/ramen/i/check.webp');
     height: 24px;
     width: 24px;
     left: -34px;

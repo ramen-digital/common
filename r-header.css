@@ -161,7 +161,7 @@ button {
   width: 20px;
   left: -25px;
   bottom: 1px;
-  background-image: url('../i/tel.webp');
+  background-image: url('https://meu.ramen.digital/wp-content/themes/ramen/i/tel.webp');
   background-size: contain;
 }
 
@@ -206,7 +206,7 @@ button {
   width: 20px;
   left: -25px;
   bottom: -1px;
-  background-image: url('../i/email.webp');
+  background-image: url('https://meu.ramen.digital/wp-content/themes/ramen/i/email.webp');
   background-size: contain;
 }
 .open-call-me {
@@ -562,7 +562,7 @@ button {
     position: absolute;
     height: 45px;
     width: 241px;
-    background-image: url("../i/arrow.webp");
+    background-image: url("https://meu.ramen.digital/wp-content/themes/ramen/i/arrow.webp");
     z-index: 9999;
     bottom: -30px;
     left: -320px;
